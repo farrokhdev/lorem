@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorem/static/css/main.1003d25c.chunk.css",
+    "main.js": "/lorem/static/js/main.c497cca9.chunk.js",
+    "main.js.map": "/lorem/static/js/main.c497cca9.chunk.js.map",
+    "runtime-main.js": "/lorem/static/js/runtime-main.2685c01c.js",
+    "runtime-main.js.map": "/lorem/static/js/runtime-main.2685c01c.js.map",
+    "static/js/2.4a17f552.chunk.js": "/lorem/static/js/2.4a17f552.chunk.js",
+    "static/js/2.4a17f552.chunk.js.map": "/lorem/static/js/2.4a17f552.chunk.js.map",
+    "index.html": "/lorem/index.html",
+    "static/css/main.1003d25c.chunk.css.map": "/lorem/static/css/main.1003d25c.chunk.css.map",
+    "static/js/2.4a17f552.chunk.js.LICENSE.txt": "/lorem/static/js/2.4a17f552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2685c01c.js",
+    "static/js/2.4a17f552.chunk.js",
+    "static/css/main.1003d25c.chunk.css",
+    "static/js/main.c497cca9.chunk.js"
+  ]
+}
